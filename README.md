@@ -1,5 +1,5 @@
 # Reference
-- Vue.js의 directive를 이용한 기존 `swiper` 플러그인 호환 소스
+- Vue.js의 `directive`를 이용한 기존 `swiper` 플러그인 호환 소스
 <a href="https://github.com/wddo/nuxtjs-demo/blob/vswiper/plugins/directives/vswiper.js">Link</a>
 - Vue 환경에서 vanilla JS 및 jQuery 기반 마크업 대응하는 JSX 소스
 <a href="https://github.com/wddo/nuxtjs-demo/blob/append-script-tag/pages/scriptJsx.vue">Link</a>
