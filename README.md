@@ -1,7 +1,7 @@
 # Vue.js
-- m.hanatour.com 개편 (nuxt.js + quasar)
+- m.hanatour.com 개편 (`nuxt.js` + quasar)
 <a href="http://ddoeng.dothome.co.kr/mhnt" target="_blank">Link</a>
-- Parallax showcase
+- `Parallax` showcase page
 <a href="http://ddoeng.dothome.co.kr/fashion/showcase" target="_blank">Link</a>
 # Reference
 - Vue.js의 `directive`를 이용한 기존 `swiper` 플러그인 호환 소스
