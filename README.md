@@ -1,3 +1,8 @@
+# Vue.js
+- m.hanatour.com 개편
+<a href="http://ddoeng.dothome.co.kr/mhnt">Link</a>
+- Parallax
+<a href="http://ddoeng.dothome.co.kr/fashion/showcase">Link</a>
 # Reference
 - Vue.js의 `directive`를 이용한 기존 `swiper` 플러그인 호환 소스
 <a href="https://github.com/wddo/nuxtjs-demo/blob/vswiper/plugins/directives/vswiper.js">Link</a>
