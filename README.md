@@ -1,5 +1,5 @@
 # Vue.js
-- m.hanatour.com 개편 (`nuxt.js` + quasar)
+- m.hanatour.com 개편 (`Nuxt.js` + quasar)
 <a href="http://ddoeng.dothome.co.kr/mhnt" target="_blank">Link</a>
 - `Parallax` showcase page
 <a href="http://ddoeng.dothome.co.kr/fashion/showcase" target="_blank">Link</a>
